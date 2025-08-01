@@ -92,7 +92,7 @@ _Clone and deploy your own copy of this project in one click._
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/arhamkhnz/next-shadcn-admin-dashboard.git
+   git clone https:https://github.com/ThiaGooOhhh/dashboard2.git
    ```
    
 2. **Install dependencies**
